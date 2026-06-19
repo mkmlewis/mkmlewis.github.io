@@ -5,9 +5,9 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "default"
 
 # Site settings
-title: "Jane Smith"
+title: "Maddy Lewis"
 subtitle: "PhD Student in Glaciology"
-url: "https://janesmith.github.io"
+url: "https://mkmlewis.github.io"
 
 # Masthead image
 logo: "/assets/images/avatar.png"
@@ -17,40 +17,31 @@ favicon: "/assets/images/favicon.png"
 
 # Author sidebar info
 author:
-  name: Jane Smith
-  bio: "PhD Student in Glaciology at the University of Example."
+  name: Maddy Lewis
+  bio: "PhD Student in Glaciology at the University of Bristol and the British Antarctic Survey."
   avatar: "/assets/images/avatar.png"
-  email: jane.smith@example.com
+  email: maddy.lewis@bristol.ac.uk
   location: Bristol, UK
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "github.com/janesmith"
+      url: "github.com/mkmlewis"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "linkedin.com/in/janesmith"
-    - label: "Bluesky"
-      icon: "fa-brands fa-fw fa-bluesky"
-      url: "https://janesmith.bsky.social"
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-google-scholar"
-      url: "https://scholar.google.co.uk/citations?user=XXXXXXXXXXX"
+      url: "linkedin.com/in/madeleine-lewis-49328754"
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+      url: "https://orcid.org/0009-0005-9821-2291"
 
 # Site Footer
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jane.smith@example.com"
-    - label: "Bluesky"
-      icon: "fa-brands fa-fw fa-bluesky"
-      url: "https://bsky.app/profile/janesmith.bsky.social"
+      url: "mailto:maddy.lewis@bristol.ac.uk"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/janesmith"
+      url: "https://github.com/mkmlewis"
   since: "2026"
 
 # Build settings
